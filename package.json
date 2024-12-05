@@ -1,0 +1,16 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/index.js",
+    "dev": "nodemon backend/index.js"
+  },
+  "author": "ashok",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
